@@ -1,0 +1,11 @@
+h1{
+    color:red;
+}
+body{
+    color:rgb(14, 1, 1);
+    background-color: aquamarine;
+    border-style:outset;
+    background-position:center;
+    background-repeat: no-repeat;
+    padding-bottom: 100px;
+}
